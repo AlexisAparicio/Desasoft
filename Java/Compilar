@@ -1,0 +1,8 @@
+cd desktop
+cd html
+cd java_interface
+javac Grafico.java
+java Grafico
+
+
+
